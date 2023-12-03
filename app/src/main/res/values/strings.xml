@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Onboarding_screen</string>
+
+
+    <string name="title_onboarding_1">Избавьтесь от боли в спине раз и навсегда!</string>
+    <string name="description_onboarding_1">Здоровье спины – это один из основных показателей комфорта жизни.</string>
+
+    <string name="title_onboarding_2">Наша цель</string>
+    <string name="description_onboarding_2">Обеспечить людей доступным инструментом для поддержания здоровья позвоночника.</string>
+
+    <string name="title_onboarding_3">Спина требует ежедневного ухода!</string>
+    <string name="description_onboarding_3">Our mission is to make useful &amp; subtle apps. We love help people to save time with open-source stuffs, but we also make life easier by creating new things. Good Coding!</string>
+
+    <string name="start_text_advice">Мы с вами научимся заниматься на тренажере-массажере для спины Древмасс.</string>
+
+    <string name="start">start</string>
+    <string name="skip">Skip</string>
+    <string name="finish">finish</string>
+    <string name="next">next</string>
+    <string name="back">back</string>
+</resources>
